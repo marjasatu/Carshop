@@ -79,6 +79,7 @@ export default function Carlist() {
             Header: 'Year',
             accessor: 'year' 
          },
+         
          {
             Header: 'Price',
             accessor: 'price' 
